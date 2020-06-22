@@ -2,7 +2,7 @@
 
 **1. Solid Prensiplerini Öğren.**
 
-S.O.L.I.D kısaltması Object Oriented Programlama(Nesne Tabanlı Programlama) uygulamalarında kodun daha esnek, işlevsel ve bakımının kolay olmasını sağlamak için uygulanan beş tasarım ilkesinin baş harflerinden oluşmaktadır.
+**S.O.L.I.D** kısaltması Object Oriented Programlama(Nesne Tabanlı Programlama) uygulamalarında kodun daha esnek, işlevsel ve bakımının kolay olmasını sağlamak için uygulanan beş tasarım ilkesinin baş harflerinden oluşmaktadır.
 
 - Single Responsibility(Tek Sorumluluk) Prensibi(S):
 Bir class’ın(sınıfın), metodun v.s sadece bir görevi olmalıdır. Yani bir sınıfta değişiklik yaparken yalnız bir nedeniniz olmalıdır.
