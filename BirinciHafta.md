@@ -51,13 +51,9 @@ Azure tarafındaki gelişmeler: Özellikle makine öğrenmesi ve yapay zekaya y�
   
   Bir Kubernetes clusterındaki worker node'da neler vardır? 
   
-  '----------------------------'
-  '  -Docker(Container Runtime)'
-  '----------------------------'
-  '  -Kubelet                  '
-  '----------------------------'
-  '  -KubeProxy                '
-  '----------------------------'
+  -Docker(Container Runtime)
+  -Kubelet
+  -KubeProxy
   
   Worker node'a gittiğimizde bir container runtime'a ihtiyaç var. Bunun için en sık kullanılan araç Docker.
   
