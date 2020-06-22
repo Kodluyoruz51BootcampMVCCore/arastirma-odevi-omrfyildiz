@@ -22,9 +22,9 @@ Entitiler soyutlamalara bağlı olmalıdır. Üst sınıflar alt sınıflara ba�
 
 2. Microsoft Build 'den 2 etkinlik araştır.
 
-The bleeding edge of modern web apps on Azure: https://mybuild.microsoft.com/sessions/6769011f-744e-4c36-84a2-49b715be0c80?source=sessions
+[The bleeding edge of modern web apps on Azure]: (https://mybuild.microsoft.com/sessions/6769011f-744e-4c36-84a2-49b715be0c80?source=sessions)
 
-Modern Web UI with Blazor WebAssembly: https://mybuild.microsoft.com/sessions/7e6c0b6e-36b9-4b9b-a409-a0960f67531f?source=sessions 
+[Modern Web UI with Blazor WebAssembly]: (https://mybuild.microsoft.com/sessions/7e6c0b6e-36b9-4b9b-a409-a0960f67531f?source=sessions) 
 
 3. Microsoft Build 2020 yeniliklerini Araştır.
 
@@ -38,9 +38,9 @@ Azure tarafındaki gelişmeler: Özellikle makine öğrenmesi ve yapay zekaya y�
 
 4. Takip Ettiğin 2 yazılımcıyı araştır.
 
-Bora Kaşmer: http://www.borakasmer.com/ 
+[Bora Kaşmer]: (http://www.borakasmer.com/) 
 
-Engin Demiroğ: https://github.com/engindemirog
+[Engin Demiroğ]: (https://github.com/engindemirog)
 
 5. Devler Azure'da araştır [Eğitim-Workshop]
 
@@ -104,9 +104,9 @@ Azure DevOps beş ana üründen oluşur:
 
 6. Yazılım ile ilgili Yarışmaları araştır (Örneğin: GGJ)
 
-From games to apps to APIs and more, prototype ANY idea of your choosing.
-https://global-dev-challenge.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=discover 
+[From games to apps to APIs and more, prototype ANY idea of your choosing.]
+(https://global-dev-challenge.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=discover) 
 
-Developer Week Global
-https://developerweek-global-2020.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=discover
+[Developer Week Global]
+(https://developerweek-global-2020.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=discover)
 
