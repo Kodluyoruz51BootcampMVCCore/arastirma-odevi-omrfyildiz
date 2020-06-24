@@ -109,6 +109,16 @@ To rebase and merge pull requests, you must have write permissions in the reposi
  
  **Aspnetboilerplate ve yan ürünler araştırması. AspNet Boilerplate - Web Application Framework**
  
+"ASP.NET Boilerplate is a general purpose application framework especially designed for new modern web applications. It uses already familiar tools and implements best practices around them to provide you a SOLID development experience."
+
+(ASP.NET Boilerplate genel amaçlı bir uygulama frameworküdür. Özellikle yeni modern web uygulamaları için tasarlanmıştır. Halihazırda benzer araçları kullanıp size SOLID geliştirme deneyimi sunmak için best practisleri uygular.)
+
+- Domain Driven Design(DDD) temeli üzerinde katmanlı mimari olanağı sağlar.
+- Database'den UI'a kadar multitenancy ile uyumlu.
+- Modüler olarak tasarlanmıştır.
+
+[Kaynak: ASP.NET Boilerplate](https://aspnetboilerplate.com/)
+ 
  
  **hackerRank.com --> 30 Days Of Code**
  
@@ -118,7 +128,7 @@ To rebase and merge pull requests, you must have write permissions in the reposi
  ##7 Haziran Ödevleri
  
  
- **Razor Pages Nedir?**
+**Razor Pages Nedir?**
  
 ** 4 Farklı Projede Yapılacak Change Authentication**
  
@@ -132,11 +142,32 @@ To rebase and merge pull requests, you must have write permissions in the reposi
  
  
  **Ayarlardaki Output kısmındaki Console Application nedir? diğerleri arasında fark nedir?**
+
+Bir Console Application(Uygulaması), C# bağlamında düşünürsek, üç temel data akışına(standart input, standart output ve standart error) erişerek girdileri alıp çıktıları gösteren bir komut satırı(command line) konsol uygulamasıdır. Bir konsol uygulaması genellikle stand-alone executable dosya formatı içinde ya minimal bir grafik arayüzü barındırır ya da hiç barındırmaz.
+
+[Kaynak: Technopedia](https://www.techopedia.com/definition/25593/console-application-c)
  
  **c# json serialize / deserialize**
+ 
+ **Serialization:** Bir nesnedeki verinin bir yerde depolaması veya ağ ortamında bir yerden bir yere gönderilmesi gerektiği durumlarda uygun formata dönüştürülmesi işlemine serileştirme denir. Serileştirilen nesneler veritabanı, hafıza veya dosya gibi ortamlarda saklanabilirler. [Kaynak](https://www.bayramucuncu.com/c-ile-serilestirme-serialization/)
+ 
+ **Deserialisation:** Ulaşılabilir hale gelmiş datayı tekrardan hangi dilde yazıyorsak o dildeki objeye çevirmektir.[Kaynak](https://medium.com/@emrebalcii94/messagepack-nedir-serialize-deserialize-y%C3%B6ntemleri-neden-%C3%B6nemlidir-836a5f85b7b8#:~:text=K%C4%B1saca%20bahsedecek%20olursak%20serialize%20ya,yaz%C4%B1yorsak%20o%20dildeki%20objeye%20%C3%A7evirmektir.)
+ 
+ [**JSON Serialize and Deserialize on .NET**](https://docs.microsoft.com/tr-tr/dotnet/standard/serialization/system-text-json-how-to) 
+ 
  
  **MVC vs MVVM**
  
  **MVP vs MVW vs MVU Pattern arasındaki fark**
  
+ ![Görsel](https://i.stack.imgur.com/Y82D3.png)
+ 
+ [StackOverflow](https://stackoverflow.com/questions/19444431/what-is-difference-between-mvc-mvp-mvvm-design-pattern-in-terms-of-coding-c-s)
+ 
+ [Microsoft](https://docs.microsoft.com/en-gb/archive/blogs/erwinvandervalk/the-difference-between-model-view-viewmodel-and-other-separated-presentation-patterns)
+ 
  **Model-View-Update (MVU) nedir?**
+ 
+Kullanıcıya sunulan arayüzde(View) kullanıcının aldığı aksiyonun(Update) modelde yarattığı değişikliği ifade eder.
+ 
+[Ayrıntılar için:](https://elmish.github.io/elmish/)
